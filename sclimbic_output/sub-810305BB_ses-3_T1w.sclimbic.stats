@@ -1,0 +1,18 @@
+# Subcortical Limbic Volumetric Stats
+# Created by mri_sclimbic_seg
+# Measure EstimatedTotalIntraCranialVol, eTIV, Estimated Total Intracranial Volume, 1283299.387680, mm^3
+# NRows 12
+# NTableCols 5
+# ColHeaders Index SegId NVoxels Volume_mm3 StructName
+ 1   26  380  381.5294  Left-Nucleus-Accumbens 
+ 2   58  375  383.7091  Right-Nucleus-Accumbens
+ 3  819  429  426.9099  Left-HypoThal-noMB     
+ 4  820  423  420.5516  Right-HypoThal-noMB    
+ 5  821  490  495.9993  Left-Fornix            
+ 6  822  352  385.4136  Right-Fornix           
+ 7  843   50   51.2931  Left-MammillaryBody    
+ 8  844   57   57.5805  Right-MammillaryBody   
+ 9  865  207  210.9359  Left-Basal-Forebrain   
+10  866  278  281.9807  Right-Basal-Forebrain  
+11  869  101  102.8124  Left-SeptalNuc         
+12  870   89   97.9356  Right-SeptalNuc        

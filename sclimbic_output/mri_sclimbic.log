@@ -1,0 +1,4 @@
+modelfile /usr/local/freesurfer/models/sclimbic.fsm+ad.t1.nstd00-50.nstd32-50.h5
+ctab /usr/local/freesurfer/models/sclimbic.ctab
+cd /home/mark/m2ds/mlsp/project/data
+/usr/local/freesurfer/python/scripts/mri_sclimbic_seg --i T1w_folder/ --o out/ --write_volumes --write_qa_stats --etiv --conform --threads 8
